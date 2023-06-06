@@ -1,4 +1,4 @@
-# MULTIMODAL
+# Multimodal Data Analysis
 
 ## Introduction
 
